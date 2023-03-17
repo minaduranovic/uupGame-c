@@ -1,4 +1,5 @@
 #include<stdio.h>
+//zadatak za ispit
 
 int main()
 {   int inp;
